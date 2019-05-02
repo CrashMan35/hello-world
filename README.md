@@ -1,2 +1,7 @@
 # hello-world
-test repository
+
+i am david . 
+
+my code life begins now.
+
+good luck
