@@ -4,4 +4,4 @@ i am david .
 
 my code life begins now.
 
-good luck
+good luck.
